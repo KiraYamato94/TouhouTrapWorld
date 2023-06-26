@@ -7,10 +7,10 @@ Welcome everybody. This repository is to host a little Touhou fangame I made bac
 - Other players need a controller to play, being the left joystick used to move and crouch, A to jump and Start to pause (on a Xbox controller). 
 - Each player has a death counter above the character (it resets when you close the game).
 
-Here's some screenshots and a full gameplay played with 6 people at the same time:
+Here's some screenshots played with 6 people at the same time:
 <p align="center"> <img src="./images/00_MainMenu.PNG" width="640" height="320"> </p>
 <p align="center"> <img src="./images/01_Coop.PNG" width="640" height="320"> </p>
 <p align="center"> <img src="./images/02_Gameplay.PNG" width="640" height="320"> </p>
 
-You can also watch a full gameplay played with 6 people if you want [here](https://youtu.be/bsNZ0ANDrYo)
+You can also watch the full gameplay played with 6 people if you want [here](https://youtu.be/bsNZ0ANDrYo)
 <p align="center"> <img src="./images/03_Gameplay.PNG" width="640" height="320"> </p>
